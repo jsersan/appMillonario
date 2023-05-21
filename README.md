@@ -1,10 +1,10 @@
-# Biblionaire
+# Millonario
 
-El juego que pone a prueba todos tus conocimientos bíblicos. **Biblionaire** es un juego al estilo de "Quién quiere ser millonario" usando conceptos bíblicos.
+El juego que pone a prueba todos tus conocimientos generales. **Millonario** es un juego al estilo de "Quién quiere ser millonario".
 
 ![Preview](./src/assets/images/preview.jpg)
 
-[▶ Jugar ahora](https://biblionaire.vercel.app/)
+[▶ Jugar ahora](http://txemaserrano.com/angular/50x15)
 
 ## Preguntas
 
