@@ -44,4 +44,4 @@ Ejecuta el comando `yarn build` para generar la distribución del proyecto. Los 
 ## Ejecutable
 
 Ejecuta el comando `yarn run packager` para generar la distribución del proyecto como ejecutable de **Windows**. Los artefactos generados estarán en el directorio `biblionaire-win32-x64/`.
-# appMillonario
+
