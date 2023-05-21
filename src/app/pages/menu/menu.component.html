@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row vh-100 align-items-center">
+    <div class="col-12 d-flex flex-column text-center">
+      <div class="display-1 text-uppercase text-primary">
+        50 x 15
+      </div>
+
+      <p class="lead mb-4">
+        El juego que pone a prueba todos tus conocimientos
+      </p>
+
+      <div class="col-sm-12 col-md-6 offset-md-3">
+        <button routerLink="/jugar"
+                class="btn btn-secondary btn-lg btn-block"
+                *ngIf="basicTotal > 0">
+          <fa-icon [icon]="faPlay"
+                   [fixedWidth]="true"></fa-icon> Empezar a jugar
+        </button>
+
+        <small class="d-block mt-3">
+          Hecho con <fa-icon [icon]="faHeart"
+                   [fixedWidth]="true"
+                   class="text-danger"></fa-icon> por Txema Serrano <br />
+          <a href="http://moodle.txemaserrano.com" target="_blank">@jsersan</a>
+        </small>
+      </div>
+
+    </div>
+  </div>
+</div>

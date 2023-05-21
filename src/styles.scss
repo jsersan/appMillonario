@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+$theme-colors: (
+  "primary": #45edc6,
+  "secondary": #ffd152,
+  "dark": #2c2a2b,
+  "light": #efdab9,
+  "danger": hsl(14, 100%, 53%),
+  "success": hsl(141, 53%, 53%),
+  "super-light": #4e4b4d
+);
+
+$body-color: #efdab9;
+$body-bg: #343233;
+$grid-gutter-width: 1.2rem;
+
+/* Importing Bootstrap SCSS file. */
+@import "~bootstrap/scss/bootstrap";
+
+::selection {
+  color: var(--dark);
+  background: var(--primary);
+}
+
+.no-click {
+  pointer-events: none;
+  cursor: default;
+}

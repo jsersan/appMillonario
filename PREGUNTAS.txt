@@ -1,0 +1,2658 @@
+# ESTRUCTURA BÁSICA:
+# Línea 1: pregunta
+# Línea 2: Opciones separadas por "," en donde la primera es la correcta
+# Línea 3: Dificultad: EASY, MEDIUM_EASY, MEDIUM, HARD, VERY_HARD
+# Línea 4: Cita o referencia bíblica. Si no hay dejar la línea vacía
+# Línea 5: Separador de pregunta ---
+#
+
+---
+¿Cuál es el nombre del protagonista de la novela "Cien años de soledad" de Gabriel García Márquez?
+Aureliano Buendía, Arcadio Buendía, José Arcadio Buendía, Úrsula Iguarán
+MEDIUM
+
+---
+¿Qué ciudad es conocida como "La Ciudad Eterna"?
+Roma,Estambul,Venezia,Atenas
+MEDIUM
+
+---
+¿Qué famoso compositor es conocido por su obra "Las cuatro estaciones"?
+Antonio Vivaldi,Johann Sebastian Bach,Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---
+¿En qué año se celebraron los primeros Juegos Olímpicos modernos?
+1892,1896,1900,1904
+MEDIUM_EASY
+
+---   
+Qué actor interpretó el papel principal en la película "Forrest Gump"?
+Tom Hanks,Brad Pitt,Johnny Depp, Leonardo DiCaprio
+MEDIUM_EASY    
+
+---
+¿Cuál es el nombre del metal líquido que se utiliza en los termómetros?
+Mercurio, Oro, Plata, Hierro
+EASY
+    
+---
+¿Cuál es la capital de México?',
+Ciudad de México, Guadalajara, Monterrey, Puebla,
+EASY
+
+---
+¿Que hombre tenía una larga y pesada cabellera?
+Sansón, Juan el Bautista, Roboam, Absalón
+MEDIUM_EASY    
+
+---
+¿Quién fue el primer presidente de los Estados Unidos de América?
+George Washington, Thomas Jefferson, Abraham Lincoln, Benjamin Franklin
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la obra maestra de Leonardo da Vinci que se encuentra en el Museo del Louvre?
+La Gioconda o Mona Lisa, La última cena, La creación de Adán, La Venus de Milo
+MEDIUM_EASY
+   
+---
+¿De qué banda de rock era guitarrista David Gilmour?
+Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin
+MEDIUM
+
+---
+¿Cuál es el nombre del instrumento musical que se toca con las manos y se origina en Cuba?
+Bongó, Conga, Timbal, Maracas
+MEDIUM
+
+---
+¿Quién escribió la novela "Matar a un ruiseñor""?
+Harper Lee, William Faulkner, Ernest Hemingway, John Steinbeck
+MEDIUM
+
+---
+'¿Cuál es la capital de Surinam?'
+Paramaribo, Boavista, Macapa, Aruba
+MEDIUM
+
+---
+¿Cuál de estos compuestos químicos es conocido como "el rey de los venenos"?
+Cianuro de potasio, Sulfato de cobre, Ácido sulfúrico, Plomo tetraetilo
+MEDIUM
+    
+---
+¿Qué científico desarrolló la teoría de la relatividad?
+Albert Einstein, Galileo Galilei, Nikola Tesla, Isaac Newton
+EASY
+
+---
+¿En qué año se declaró la independencia de los Estados Unidos de América?
+1776, 1789, 1793, 1812
+HARD
+
+---
+¿Cuál es el nombre de la pintura de Edvard Munch que representa una figura humana gritando?
+El grito, La noche estrellada, La persistencia de la memoria, Los girasoles
+MEDIUM
+
+---
+¿Cuál es la capital de Australia?
+Canberra, Melbourne, Sídney, Perth
+MEDIUM
+
+---
+¿Cuál es el nombre del satélite de Saturno que tiene un océano líquido debajo de su superficie helada?
+Encélado, Titán, Mimas, Rea
+HARD
+
+---
+¿Qué escritor francés es conocido por sus novelas "Los Miserables" y "El Jorobado de Notre Dame"?
+Victor Hugo, Gustave Flaubert, Marcel Proust, Albert Camus
+MEDIUM
+
+---
+¿Quién fue el líder de la Revolución Cubana que derrocó al dictador Fulgencio Batista en 1959?
+Fidel Castro, Che Guevara, Camilo Cienfuegos, Raúl Castro
+EASY
+
+---
+¿Cuál es el nombre del satélite natural de la Tierra?
+Luna, Io, Ganímedes, Europa
+EASY
+
+---
+¿Cuál es el nombre del tratado internacional que tiene como objetivo evitar la propagación de armas nucleares?
+Tratado de No Proliferación Nuclear,Tratado de Versalles, Tratado de Tlatelolco, Tratado de Kioto
+MEDIUM
+
+---
+¿En qué año se llevó a cabo la Revolución Rusa?
+1917, 1914, 1922, 1910
+MEDIUM_EASY
+   
+---
+¿Cuál es el nombre del filósofo griego que fue el discípulo de Platón y maestro de Alejandro Magno?
+Aristóteles,Diógenes,Epicuro,Sócrates
+HARD
+
+---
+¿Qué escritor francés es conocido por sus novelas "Madame Bovary" y "Salambó"?'
+Gustave Flaubert, Marcel Proust, Émile Zola, Honoré de Balzac
+MEDIUM
+
+---
+¿En qué país se encuentra la Torre Eiffel?
+Francia, Alemania, Italia, España
+EASY
+
+---
+¿Cuál es el nombre del río más largo del mundo?
+Nilo, Amazonas, Yangtsé, Amarillo
+MEDIUM
+
+---
+¿En qué año se fundó la ciudad de Roma?
+753 a.C., 476 d.C., 814 d.C., 1200 a.C.
+MEDIUM
+
+---
+¿Qué país es el hogar del Taj Mahal?
+India, Tailandia, Camboya, Malasia
+MEDIUM_EASY
+
+---
+¿En qué año se inauguró el Canal de Panamá?
+1914, 1910, 1920, 1924
+MEDIUM
+
+---
+¿Qué elemento químico tiene el símbolo "Fe" en la tabla periódica?',
+Hierro,Plata, Oro, Cobre
+MEDIUM_EASY
+
+---
+¿Quién escribió la novela "Cien años de soledad"?',
+Gabriel García Márquez, Pablo Neruda, Jorge Luis Borges, Julio Cortázar
+MEDIUM
+
+---
+¿Qué famoso pintor holandés cortó su propia oreja?
+Vincent van Gogh, Rembrandt van Rijn, Johannes Vermeer, Pieter Bruegel
+MEDIUM_EASY
+
+---    
+¿Cuál es la moneda oficial de México?',
+Peso mexicano, Dólar estadounidense,Euro, Yen japonés
+MEDIUM
+
+---
+¿En qué año se llevó a cabo la primera Copa Mundial de Fútbol?
+1930,1924,1934,1938
+HARD
+
+---
+¿En qué año se lanzó el primer satélite artificial, el Sputnik 1?
+1957,1961,1955,1965
+MEDIUM
+
+---
+¿Cuál es el metal más ligero que existe?
+Litio,Aluminio,Titanio,Magnesio
+MEDIUM
+
+---
+
+¿Quién fue el primer ser humano en viajar al espacio?
+Yuri Gagarin,Neil Armstrong,Alan Shepard, Buzz Aldrin
+MEDIUM_EASY
+
+
+----
+¿Cuál es el planeta más grande del sistema solar?
+Júpiter,Saturno,Neptuno,Urano
+EASY
+
+---
+¿Cuál es la velocidad de la luz en el vacío?
+300.000 kilómetros por segundo, 200.000 kilómetros por segundo, 150.000 kilómetros por segundo, 100.000 kilómetros por segundo
+MEDIUM_EASY
+
+---
+¿Quién descubrió la penicilina?
+Alexander Fleming, Louis Pasteur, Marie Curie, Albert Einstein
+MEDIUM
+
+---
+¿Cuál es el océano más grande del mundo?
+Océano Pacífico,Océano Atlántico,Océano Índico, Océano Ártico
+MEDIUM_EASY
+
+---
+¿Cuál es el símbolo químico del oro?
+Au,Ag, Fe, Pt
+MEDIUM_EASY
+
+---
+¿Cuál es la montaña más alta del mundo?
+Monte Everest, K2, Monte Kilimanjaro, Monte Aconcagua
+EASY
+
+---
+¿Quién escribió la obra "Romeo y Julieta"?
+William Shakespeare, Miguel de Cervantes, Charles Dickens, Fyodor Dostoyevsky
+MEDIUM
+
+---
+¿Cuál es el número atómico del hidrógeno?
+1,2,3,4
+MEDIUM_EASY
+
+---
+¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?
+1945, 1950, 1960, 1970
+MEDIUM    
+
+---
+¿Qué país es el segundo más grande del mundo en términos de superficie?
+Canadá,Rusia,China, Estados Unidos
+MEDIUM
+
+---
+¿Cuál es el océano más profundo del mundo?
+Océano Pacífico, Océano Atlántico, Océano Índico, Océano Ártico
+MEDIUM
+
+---
+¿Quién pintó la obra "La noche estrellada"?
+Vincent van Gogh, Leonardo da Vinci, Pablo Picasso, Claude Monet
+MEDIUM
+
+---
+¿Cuál es el símbolo químico del hierro?
+Fe, H,He, Ca
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la ciudad de Petra?
+Jordania, Egipto, Turquía, Irán
+MEDIUM
+
+---
+¿En qué año se estrenó la película "El Padrino"?
+1972, 1975, 1980, 1983
+MEDIUM_EASY
+
+---
+¿Quién es el fundador de la compañía Apple?
+Steve Jobs, Bill Gates, Mark Zuckerberg, Larry Page
+EASY
+   
+---   
+¿Cuál es el instrumento musical más antiguo que se conoce?
+Flauta, Guitarra, Tambor, Lira
+MEDIUM
+
+---
+¿En qué país se encuentra el lago Titicaca?
+Bolivia, Perú, Argentina , Chile
+MEDIUM
+
+---
+¿Cuál es el río más largo de América del Sur?
+Amazonas, Paraná, Orinoco, Magdalena
+MEDIUM
+
+---
+¿Cuál es el país más poblado del mundo?
+China, India, Estados Unidos, Brasil
+EASY
+
+---
+¿Cuál es el símbolo químico del sodio?
+Na, So, Si, Sd
+MEDIUM_EASY
+
+---    
+¿En qué año se produjo el primer vuelo tripulado de los hermanos Wright?
+1903,1910,1920,1930
+HARD
+
+---
+¿Cuál es el planeta más cercano al Sol?
+Mercurio,Venus, Marte, Júpiter
+MEDIUM_EASY
+
+---
+¿Cuál es el metal más pesado que existe en la Tierra?
+Osmio, Oro, Platino, Plomo
+HARD
+
+---
+¿En qué año se inauguró la Torre Eiffel en París?
+1889, 1900, 1925, 1950
+HARD
+
+---    
+¿Cuál es el continente más grande del mundo en términos de superficie?
+Asia,África, América del Norte, Europa
+MEDIUM_EASY
+    
+---
+¿Quién escribió la novela "1984"?
+George Orwell,Aldous Huxley,Ernest Hemingway,F. Scott Fitzgerald
+MEDIUM
+
+---
+¿Cuál es el animal más rápido del mundo?
+Guepardo,Águila,Leopardo,Lobo
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Canadá?
+Ottawa,Toronto,Vancouver,Montreal
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la Gran Muralla China?
+China,Japón,Corea del Norte,Vietnam
+EASY
+
+---    
+¿Quién escribió "La Odisea"?'
+Homero,Platón,Sófocles,Aristóteles
+MEDIUM
+
+---
+¿Cuál es el hueso más largo del cuerpo humano?
+Fémur,Tibia,Peroné,Húmero
+MEDIUM_EASY
+
+---
+¿Cuál es el gas más abundante en la atmósfera terrestre?
+Nitrógeno,Oxígeno,Dióxido de carbono,Argón
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Egipto?
+El Cairo,Alejandría,Giza,Luxor
+MEDIUM_EASY
+
+---
+'¿Quién pintó la "Mona Lisa"?
+Leonardo da Vinci,Michelangelo,Rafael,Botticelli
+MEDIUM_EASY
+
+---
+¿Cuál es el país más grande del mundo por superficie terrestre?
+Rusia,China,Estados Unidos,Brasil
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la célula reproductora femenina?
+Óvulo,Espermatozoide,Cigoto,Blastocisto
+MEDIUM_EASY
+
+---
+¿Quién escribió "El Gran Gatsby"?
+F. Scott Fitzgerald,Ernest Hemingway, William Faulkner, John Steinbeck
+MEDIUM_EASY
+
+---
+Cuál es la fórmula química del agua?
+H2O,CO2,NaCl,NH3
+MEDIUM_EASY
+
+---
+¿Quién escribió "La Divina Comedia"?',
+Dante Alighieri,Giovanni Boccaccio,Francesco Petrarca,Niccolò Machiavelli
+MEDIUM
+
+---
+¿Cuál es la capital de la República Popular China?
+Pekín,Hong Kong,Shanghái,Macao
+MEDIUM_EASY
+
+---
+¿Cuál de las siguientes enfermedades no está causada por un virus?
+Malaria,Hepatitis,SIDA,Varicela
+MEDIUM
+
+---
+¿Cuál es la lengua oficial de Brasil?
+Portugués,Español,Inglés,Francés
+MEDIUM_EASY
+
+---
+¿Cuál es el elemento químico más abundante en la corteza terrestre?
+Oxígeno,Hierro,Calcio,Aluminio
+MEDIUM
+
+---
+¿Cuál es el país más grande de América del Sur?
+Brasil,Argentina,Colombia,Perú
+MEDIUM_EASY
+
+---
+¿Quién pintó la obra "El jardín de las delicias"?
+Hieronymus Bosch,Salvador Dalí,Vincent van Gogh,Claude Monet
+MEDIUM
+
+---
+¿Qué famoso físico formuló las leyes del movimiento planetario?
+Johannes Kepler,Galileo Galilei,Isaac Newton,Albert Einstein
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual las plantas convierten la luz solar en energía
+Fotosíntesis,Respiración,Fermentación,Glucólisis
+MEDIUM_EASY
+
+---
+¿Cuál es el único país del mundo cuya bandera no es cuadrada?
+Nepal,Suiza,Malta,Liechtenstein
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del científico que descubrió la estructura del ADN?
+Francis Crick,Rosalind Franklin,James Watson,Maurice Wilkins
+HARD
+
+---
+¿Cuál es el libro más vendido de todos los tiempos?
+La Biblia,Don Quijote de la Mancha,El Principito,Harry Potter y la Piedra Filosofal
+MEDIUM_EASY
+
+---
+¿Cuál es el rango de audición normal para los seres humanos?
+20-20,000,10-10,000,5-30,000,50-20,000
+MEDIUM
+
+---
+¿Cuál es el nombre de la célula reproductora masculina?
+Óvulo,Espermatozoide,Cigoto,Embrión
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la glucosa?
+Respiración celular,Fotosíntesis,Glucólisis,Fermentación
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del proceso mediante el cual se forman las estrellas?
+Fusión nuclear,Fisión nuclear,Combustión,Oxidación
+MEDIUM
+
+---
+¿Cuál es el nombre del continente más frío del mundo?
+Antártida,Asia,Europa,América del Sur
+MEDIUM_EASY
+
+---
+¿En qué año se fundó la ciudad de Nueva York?
+1664,1620,1700,1750
+HARD
+
+---
+¿Cuál es el nombre de la célula reproductora femenina?
+Óvulo,Espermatozoide,Cigoto,Embrión
+EASY
+
+---
+¿Cuál es el nombre de la ley que establece que la energía no se puede crear ni destruir, solo transformar?
+Ley de la conservación de la energía, Ley de la gravitación universal, Ley de la termodinámica , Ley de la relatividad
+MEDIUM_EASY
+
+---
+¿En qué año se llevó a cabo el primer vuelo tripulado en la historia?
+1903,1911,1920,1932
+HARD
+
+---
+¿Cuál es el nombre de la técnica pictórica que consiste en aplicar capas de pintura transparente sobre un fondo previamente pintado?
+Glacis,Acrílico, Óleo , Temple
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la luz?
+Fotosíntesis,Quimiosíntesis,Respiración celular,Fermentación
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se produce el hielo seco?
+Sublimación,Evaporación,Condensación,Solidificación
+HARD
+
+---
+¿Cuál es el nombre de la unidad de medida de la intensidad de sonido?
+Decibelio,Hertzio,Vatio,Amperio
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se produce la lluvia ácida?
+Combustión,Oxidación,Polución,Acidificación
+HARD
+
+---
+¿Quién fue el primer hombre en pisar la Luna?
+Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Alan Shepard
+MEDIUM_EASY
+
+---
+¿En qué año se llevó a cabo la Guerra de Vietnam?
+1962-1973,1945-1954,1954-1962,1973-1983
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del proceso mediante el cual se produce la corriente eléctrica a partir de una reacción química?
+Electrólisis,Electrificación,Electromagnetismo,Electrón
+MEDIUM
+
+---
+¿Cuál es el nombre de la molécula responsable de la transmisión de la información genética?
+ADN,ARN,Carbohidrato,Proteína
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la luz?
+Fotosíntesis,Quimiosíntesis,Respiración celular,Fermentación
+MEDIUM_EASY
+
+---
+¿En qué año se hundió el Titanic?
+1912,1910,1914,1916
+MEDIUM
+
+---
+¿Quién escribió la obra "El Quijote"?
+Miguel de Cervantes, William Shakespeare, Gustave Flaubert, Jane Austen
+MEDIUM_EASY
+
+---
+¿Cuál es el océano más pequeño del mundo?
+Océano Ártico,Océano Índico, Océano Atlántico, Océano Pacífico
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la luz?
+Fotosíntesis,Quimiosíntesis,Respiración celular,Fermentación
+MEDIUM
+
+---
+¿Cuál es la capital de Argentina?
+Buenos Aires, Santiago de Chile, Montevideo, Caracas
+EASY
+
+---
+¿Cuál es el instrumento que se utiliza para medir la presión arterial?
+Esfigmomanómetro, Estetoscopio, Termómetro, Fonendoscopio
+MEDIUM
+
+---
+¿En qué año se cayó el muro de Berlín?
+1989,1991,1993,1987
+MEDIUM
+
+---
+¿En qué año se produjo la Revolución Francesa?
+1789, 1798, 1815, 1832
+MEDIUM
+
+---
+¿En qué año se produjo el desastre de Chernóbil?
+1986, 1991, 1996, 1989
+MEDIUM
+
+---
+¿En qué año se inventó el teléfono?
+1876, 1854, 1892, 1901
+MEDIUM
+
+---
+¿Quién escribió "El origen de las especies"?
+Charles Darwin, Albert Einstein, Isaac Newton,Galileo Galilei
+MEDIUM
+
+---
+¿Cuál es el metal más caro del mundo?
+Rodio, Platino, Oro, Paladio
+MEDIUM
+
+---
+¿En qué año se produjo la Primera Guerra Mundial?
+1914, 1918, 1922, 1912
+MEDIUM_EASY
+
+---
+¿Cuál es la molécula responsable del efecto invernadero en la atmósfera terrestre?
+CO2 (Dióxido de carbono), O2 (Oxígeno), N2 (Nitrógeno), H2O (Agua)
+MEDIUM
+
+---
+¿Quién ganó el Premio Nobel de Física en 2020?
+Todas las opciones, Roger Penrose, Reinhard Genzel, Andrea Ghez
+HARD
+
+---
+¿Cuál es la corriente eléctrica que fluye en una batería de 9V?
+0.1 amperios, 9 amperios, 1 amperio, 0.01 amperios
+MEDIUM
+
+---
+¿Cuál es el período de la función seno?
+2π,π,π/2,1
+MEDIUM
+
+---
+¿Cuál es la velocidad de escape de la Tierra?
+11,2 km/s, 9,8 km/s, 7,9 km/s, 5,7 km/s
+HARD
+
+----
+¿En qué año se descubrió el ADN?
+1953, 1869, 1902, 1987
+HARD
+
+---
+¿En qué año se lanzó el primer iPhone?
+2007, 2006, 2004, 2008
+MEDIUM
+
+---
+¿Cuál es la capital de Chile?,
+Santiago, Lima, Bogotá, Buenos Aires
+MEDIUM
+
+---
+¿En qué país se encuentra la ciudad de Praga?
+República Checa, Polonia, Alemania, Hungría
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la ciudad de Dubái?
+Emiratos Árabes Unidos, Kuwait, Qatar, Arabia Saudita
+MEDIUM
+
+---
+¿Cuál es el nombre del villano en la película "El Rey León"?
+Scar, Jafar, Ursula, Cruella
+MEDIUM
+
+---
+¿Qué grupo musical británico se hizo famoso en los años 60 con canciones como "Hey Jude" y "Let It Be"?',
+The Beatles, The Rolling Stones, Led Zeppelin, Pink Floyd
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Nueva Zelanda?
+Wellington,Auckland,Christchurch,Queenstown
+MEDIUM
+
+---
+¿Cuál es el nombre de la mayor cadena montañosa del mundo?
+El Himalaya, Los Andes, Los Alpes, Las Rocosas
+MEDIUM
+
+---
+¿Cuál es el río más largo de África?,
+Nilo, Congo, Zambeze, Níger
+MEDIUM_EASY
+
+---
+¿Cuál es el metal más abundante en la corteza terrestre?
+Aluminio, Hierro, Plomo, Cobre
+MEDIUM_EASY
+
+---
+¿Cuál es la ciudad más poblada del mundo?
+Tokio, Delhi, Shanghái, Ciudad de México
+MEDIUM
+
+---
+¿Quién escribió el libro "Don Quijote de la Mancha"?
+Miguel de Cervantes, Gabriel García Márquez, William Shakespeare, Dante Alighieri
+EASY
+
+---
+¿Cuál es el símbolo químico del oro?
+Au, Ag, Fe, Or
+MEDIUM_EASY
+
+---
+¿Cuál es la moneda oficial de Japón?
+Yen, Dólar, Euro, Libra
+MEDIUM_EASY
+
+---
+¿Cuál es el autor de la obra "Romeo y Julieta"?
+'William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Oscar Wilde'
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la isla de Pascua?
+Chile, Perú, Colombia, Ecuador
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del pigmento que da a las plantas su color verde?
+Clorofila, Melanina, Hemoglobina, Caroteno
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del presidente de Rusia en la actualidad (2023)?
+Vladimir Putin, Dmitry Medvédev, Vladimir Zhirinovsky, Alexander Lukashenko
+EASY
+
+---
+¿Cuál es el nombre de la agencia espacial de Rusia?
+Roscosmos, NASA, ESA, JAXA
+HARD
+
+---
+¿Cuál es el gas más abundante en la atmósfera terrestre?
+Nitrógeno, Oxígeno, Dióxido de carbono, Hidrógeno
+MEDIUM
+
+----
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Samuel Beckett, George Bernard Shaw
+MEDIUM
+
+---
+¿Quién escribió "El Principito"?'
+Antoine de Saint-Exupéry, Albert Camus, Gustave Flaubert, Victor Hugo
+HARD
+
+---
+¿Cuál es el nombre de la actriz que interpreta a Hermione Granger en las películas de "Harry Potter"?
+Emma Watson, Emma Stone, Emma Roberts, Emma Thompson
+MEDIUM
+
+---
+¿En qué país se encuentra el río Amazonas?
+Brasil, Argentina, Perú, Colombia
+EASY
+
+----
+¿En qué año fue fundada la compañía Apple?
+1976, 1971, 1981, 1986
+MEDIUM
+
+----
+¿Quién fue el primer presidente de México?
+Agustín de Iturbide, Benito Juárez, Porfirio Díaz, Miguel Hidalgo
+HARD
+
+---
+¿Cuál es el nombre del villano principal de la serie de videojuegos "The Legend of Zelda"?
+Ganondorf, Bowser, Dr. Eggman, Sephiroth
+HARD
+
+---
+¿Cuál es el significado de la palabra "hipopótamo"?
+Cerdo de río, Caballo de río, Elefante de río, León de río
+HARD
+
+---
+¿Cuál es el nombre del protagonista en la novela "Don Quijote de la Mancha"?
+Alonso Quixano, Sancho Panza, Dulcinea del Toboso, Rocinante
+EASY
+
+---
+¿Qué nombre recibe el proceso por el cual una célula se divide en dos células hijas?
+Mitosis, Meiosis, Fotosíntesis, Respiración celular
+MEDIUM
+
+---
+¿Cuál es el nombre de la capa más externa de la Tierra?
+Corteza, Manto, Núcleo, Estratosfera
+MEDIUM
+
+---
+¿En qué país se encuentra la ciudad de Marrakech?
+Marruecos, Argelia, Túnez, Turquía
+MEDIUM
+
+---
+¿Qué continente tiene la mayor cantidad de países?
+América, Asia, Europa, África
+MEDIUM
+
+---
+¿En qué año se fundó la ciudad de Nueva York?
+1664, 1607, 1620, 1701
+HARD
+
+---
+¿Cuál es el nombre de la forma de gobierno en la que una sola persona tiene el poder absoluto?
+Dictadura, Democracia, Monarquía, República
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la famosa escultura de la diosa griega de la victoria?
+Niké de Samotracia, Venus de Milo, La Piedad, El David
+HARD
+
+---
+¿Cuál es el nombre del personaje principal de la película "La naranja mecánica"?
+Alex DeLarge, Travis Bickle, Donnie Darko, Patrick Bateman
+HARD
+
+---
+¿Cuál es el nombre de la actriz que interpreta a Katniss Everdeen en la película "Los juegos del hambre"?
+Jennifer Lawrence,Jennifer Aniston, Emma Watson, Emma Stone
+MEDIUM
+
+---
+¿Qué equipo ganó la Copa del Mundo de la FIFA 2018?'
+Francia, Alemania, Argentina, Brasil
+MEDIUM_EASY
+
+---
+¿Cuál es el número atómico del hierro?
+26, 12, 36, 55
+HARD
+
+---
+¿Cuál es la capital de Marruecos?
+Rabat, Tánger, Casablanca, Fez
+MEDIUM_EASY
+
+---
+¿En qué país nació el fundador de Apple, Steve Jobs?
+Estados Unidos, Japón, China, India
+EASY
+
+---
+¿Cuál es el único metal líquido a temperatura ambiente?
+Mercurio, Plomo, Hierro, Oro
+MEDIUM_EASY
+
+---
+¿Qué pintor español creó "Las Meninas"?
+'Diego Velázquez', 'Pablo Picasso', 'Salvador Dalí', 'Joan Miró'
+MEDIUM
+
+---
+¿Cuál es la unidad básica de medida de la corriente eléctrica?
+Amperio, Voltio, Ohmio, Vatio
+MEDIUM_EASY
+
+---
+¿Qué presidente de los Estados Unidos aparece en el billete de $1?
+George Washington, Abraham Lincoln, Thomas Jefferson, Benjamin Franklin
+MEDIUM_EASY
+
+---
+¿Cuál es la obra más famosa de William Shakespeare?
+'Hamlet', 'Macbeth', 'Romeo y Julieta', 'Otelo'
+MEDIUM_EASY
+
+---
+¿Cuál es el autor de la novela "El gran Gatsby"?
+F. Scott Fitzgerald, Ernest Hemingway, William Faulkner, Truman Capote
+MEDIUM
+
+---
+¿Cuál es el único país que está en dos continentes?
+Turquía, España, Rusia, Egipto
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la galaxia en la que se encuentra nuestro sistema solar?
+Vía Láctea, Andrómeda, Cigarro, Sombrero
+MEDIUM_EASY
+
+---
+¿Qué imperio fue derrotado en la Primera Guerra Mundial?
+Imperio Otomano, Imperio Romano, Imperio Británico, Imperio Azteca
+MEDIUM_EASY
+
+---
+¿En qué año comenzó la Segunda Guerra Mundial?
+1939, 1941, 1945, 1948
+EASY
+
+---
+¿Cuál es la ciudad más poblada de Brasil?
+Sao Paulo, Río de Janeiro, Brasilia, Salvador
+MEDIUM
+
+---
+¿Qué enfermedad es causada por la bacteria Mycobacterium tuberculosis?'
+Tuberculosis, SIDA, Cáncer, Poliomielitis
+MEDIUM_EASY
+
+---
+¿Cuál es el rango del ejército estadounidense equivalente al de un capitán en el ejército español?
+Teniente primero, Sargento primero, Teniente coronel,General
+MEDIUM
+
+---
+¿Cuál es la capital de Irlanda?'
+Dublín, Edimburgo, Belfast, Cork
+MEDIUM_EASY
+
+---
+¿Cuál es el metal más precioso?
+Oro, Plata, Platino, Cobre
+MEDIUM
+
+---
+¿Cuál es el órgano más grande del cuerpo humano?
+Piel, Corazón, Pulmón, Hígado
+MEDIUM_EASY
+
+---
+¿Cuál es el lago más profundo del mundo?
+Lago Baikal, Lago Superior, Lago Tanganica, Lago Ness
+MEDIUM
+
+---
+¿Cuál es la capital de Portugal?
+Lisboa, Madrid, Barcelona, Valencia
+EASY
+
+---
+¿Qué país es conocido como "La tierra de las mil colinas"?
+Ruanda, Kenya, Tanzania, Uganda
+HARD
+
+---
+¿Cuál es el principal gas que emite el efecto invernadero?
+Dióxido de carbono, Oxígeno, Nitrógeno, Metano
+MEDIUM_EASY
+
+---
+¿Qué banda de rock tiene como vocalista a Bono?
+U2, The Rolling Stones, Queen, AC/DC
+EASY
+
+---
+¿Cuál es el estado más grande de EE. UU. por superficie?
+Alaska, Texas, California, Montana
+MEDIUM_EASY
+
+---
+¿Qué tipo de animal es la mascota de Tony Stark en los cómics de Marvel?
+Mapache, Perro, Gato, Avestruz
+MEDIUM
+
+---
+¿Cuál es el nombre de la hormona del sueño?
+Melatonina, Serotonina, Dopamina, Adrenalina
+MEDIUM
+
+---
+¿Cuál es el nombre del actor que interpretó a Neo en la película "The Matrix"?
+Keanu Reeves, Tom Cruise, Brad Pitt, Will Smith
+EASY
+
+---
+¿Cuál es el principal ingrediente del sushi?
+Arroz, Fideos, Pescado, Verduras
+MEDIUM_EASY
+
+---
+¿Cuál es el edificio más alto del mundo?
+Burj Khalifa, Empire State Building, Taipei 101, Torre Eiffel
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la mascota de la marca Disney?
+Pluto, Mickey Mouse, Donald Duck, Goofy
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Brasil?
+Brasilia, São Paulo, Río de Janeiro, Buenos Aires
+MEDIUM_EASY
+
+---
+¿Qué país fue el anfitrión de los Juegos Olímpicos de verano en 2016?
+Brasil, China, Reino Unido, Australia
+MEDIUM_EASY
+
+---
+¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?
+Fotosíntesis, Respiración, Evaporación, Transpiración
+MEDIUM_EASY
+
+---
+¿Quién compuso la Novena Sinfonía?,
+Ludwig van Beethoven,Wolfgang Amadeus Mozart, Johann Sebastian Bach, Franz Schubert
+MEDIUM_EASY
+
+---
+¿Cuál es el país más grande de África?
+Argelia, Sudáfrica, Egipto, Nigeria
+MEDIUM
+
+---
+¿Cuál es el país más pequeño del mundo en términos de superficie?
+Vaticano, Mónaco, San Marino, Malta
+MEDIUM_EASY
+
+---
+¿Cuál es el océano más frío del mundo?,
+Océano Ártico, Océano Atlántico, Océano Índico, Océano Pacífico
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Francia?
+París, Roma, Madrid, Londres
+EASY
+
+---
+¿Cuál es el continente más poblado?
+Asia, África, Europa, América
+MEDIUM_EASY
+
+---
+¿Cuál es el río más largo de Europa?
+Río Volga, Río Danubio, Río Rin, Río Támesis
+MEDIUM
+
+---
+¿Cuál es el número atómico del oxígeno?
+8, 6, 12, 16
+MEDIUM
+
+---
+¿Quién escribió la novela "La montaña mágica"?
+Thomas Mann, Hermann Hesse, Franz Kafka, Robert Musil
+HARD
+
+---
+¿Cuál es la capital de Burkina Faso?
+Ouagadougou,Niamey, Lomé, Bamako
+HARD
+
+---
+¿Quién compuso el "Concierto para piano No.2"?
+Sergei Rachmaninoff,Frédéric Chopin, Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---    
+¿Qué elemento químico tiene el símbolo Pb?'
+Plomo, Platino, Potasio, Paladio
+MEDIUM_EASY
+
+---
+¿Cuál es el único estado de EE. UU. que limita con un solo estado?
+Rhode Island, Maine, Vermont, Nuevo Hampshire
+HARD
+
+---
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Virginia Woolf, T.S. Eliot
+MEDIUM
+
+---
+¿Cuál es la montaña más alta de África?
+Kilimanjaro, Monte Everest,Mont Blanc, Aconcagua
+MEDIUM
+
+---    
+¿Cuál es el río más largo de Asia?
+Río Yangtze,Río Mekong,Río Amur,Río Obi
+HARD
+
+---    
+¿En qué año se firmó el Tratado de Tordesillas?
+1494, 1512, 1532, 1492
+HARD
+
+---
+¿Cuál es la capital de Nepal
+Kathmandu, Colombo,Islamabad, Thimphu      
+MEDIUM
+
+¿En qué año se fundó la ciudad de San Francisco?
+1776, 1849, 1856, 1901
+HARD
+    
+¿Cuál es la capital de Senegal?
+Dakar, Accra, Lagos, Abuya
+MEDIUM
+
+¿Cuál es la capital de Laos?
+Vientián,Phnom Penh, Bangkok, Naypyidaw
+MEDIUM
+
+¿Cuál es la capital de Ucrania?
+Kiev,Moscú,Minsk,Chisinau
+MEDIUM_EASY
+
+¿Quién compuso "El Barbero de Sevilla"?
+Gioachino Rossini,Giuseppe Verdi, Wolfgang Amadeus Mozart, Richard Wagner
+MEDIUM
+
+¿Quién escribió "La naranja mecánica"?
+Anthony Burgess,George Orwell,Aldous Huxley,Ray Bradbury
+HARD
+    
+¿En qué año se fundó la ciudad de Los Ángeles?,
+1781, 1850, 1900, 1925
+HARD
+  
+¿Cuál es la capital de Letonia?
+Riga, Vilna, Tallin,Helsinki
+MEDIUM_EASY
+    
+¿Quién pintó "El Grito"?
+Edvard Munch, Gustav Klimt, Paul Cézanne,Henri Matisse
+HARD
+    
+¿En qué país se encuentra el río Zambeze?,
+Sudáfrica, Zimbabue, Mozambique, Kenia
+HARD
+
+¿Cuál es la capital de Qatar?
+Doha,Abu Dabi,Manama,Riad
+MEDIUM
+
+¿Quién pintó "Las meninas"?
+Diego Velázquez, Francisco de Goya,El Greco,Pablo Picasso
+MEDIUM
+
+¿Quién escribió "El señor de las moscas"?
+J.D. Salinger, William Golding, Jack Kerouac, Kurt Vonnegut
+HARD
+
+¿Cuál es la capital de Islandia?
+Reikiavik,Helsinki,Oslo, Estocolmo
+MEDIUM
+
+¿Quién compuso la "Quinta Sinfonía"?
+Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Franz Schubert
+MEDIUM_EASY
+
+¿Cuál es la capital de Montenegro?,
+Podgorica,Sarajevo, Belgrado, Pristina
+HARD
+
+Quién escribió "Moby Dick"?,
+Herman Melville, Nathaniel Hawthorne, Edgar Allan Poe, Mark Twain
+HARD
+
+¿Cuál es el desierto más grande del mundo?'
+Desierto del Sahara,Desierto de Gobi, Desierto de Atacama, Desierto de Arabia
+MEDIUM
+
+¿Cuál es la capital de Turkmenistán?,
+Ashgabat, Bakú,Tashken, Teherán
+HARD
+
+¿Quién escribió "El viejo y el mar"?
+Ernest Hemingway,F. Scott Fitzgerald, John Steinbeck', William Faulkner
+MEDIUM
+
+Qué día se celebra el Día de San Valentín?,
+14 de febrero,14 de abril,14 de mayo,14 de julio
+EASY
+
+¿Quién escribió la novela "Mujercitas"?,
+Louisa May Alcott,Jane Austen,Charlotte Brontë, Emily Dickinson
+HARD
+
+¿Cuál es la capital de Malasia?
+Kuala Lumpur,Bangkok.Manila,Yakarta
+MEDIUM
+
+¿Quién compuso la ópera "La Traviata"?
+Giuseppe Verdi, Wolfgang Amadeus Mozart,Gioachino Rossini,Richard Wagner
+MEDIUM_EASY
+
+¿Cuál es el grupo sanguíneo universalmente aceptado para transfusiones?
+O-, A-, B+, AB+'
+MEDIUM
+  
+¿Quién escribió la novela "Orgullo y prejuicio"?
+Jane Austen, Charlotte Brontë, Virginia Woolf, Emily Brontë
+HARD
+
+¿En qué año se fundó Google?
+1998, 2001, 2004, 1995
+MEDIUM_EASY
+
+¿Quién ganó el premio Nobel de Física en 2018?
+Donna Strickland, Arthur Ashkin,Gerard Mourou,Kip Thorne
+HARD
+  
+Quién pintó "La creación de Adán" en la Capilla Sixtina?
+Miguel Ángel, Leonardo da Vinci,Sandro Botticelli,Rafael Sanzio
+MEDIUM_EASY
+
+¿Quién fue el primer emperador de China?
+Qin Shi Huang,Sun Yat-sen,Mao Zedong',Chiang Kai-shek
+HARD
+
+¿En qué año se estrenó la primera película de "Star Wars"?
+1977,1975,1972,1980
+MEDIUM
+
+¿En qué año se descubrió la penicilina?
+1928, 1932, 1940, 1950
+MEDIUM
+
+¿Quién es el autor de la novela "El nombre de la rosa"?
+Umberto Eco,Mario Vargas Llosa,Gabriel García Márquez,Jorge Luis Borges
+MEDIUM_EASY
+
+Qué famoso director de cine dirigió "Psicosis"?
+Alfred Hitchcock, Stanley Kubrick, Martin Scorsese, Francis Ford Coppola
+EASY
+    
+En qué país se encuentra el Monte Everest?
+Nepal,China, India, Bután
+MEDIUM_EASY
+
+Qué científico descubrió la ley de la gravitación universal?
+Isaac Newton, Albert Einstein,Galileo Galilei,Johannes Kepler
+MEDIUM_EASY
+
+¿Cuál es el cuadro más famoso de Vincent Van Gogh?
+La noche estrellada,Los girasoles,La siesta, La persistencia de la memoria'
+MEDIUM_EASY
+
+¿En qué ciudad se encuentra la famosa Torre Inclinada?
+Pisa,París, Londres,Berlín
+EASY
+
+---
+¿Quién compuso el "Concierto para piano No.2"?
+Sergei Rachmaninoff,Frédéric Chopin, Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---    
+¿Qué elemento químico tiene el símbolo Pb?'
+Plomo, Platino, Potasio, Paladio
+MEDIUM_EASY
+
+---
+¿Cuál es el único estado de EE. UU. que limita con un solo estado?
+Rhode Island, Maine, Vermont, Nuevo Hampshire
+HARD
+
+---
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Virginia Woolf, T.S. Eliot
+MEDIUM
+
+---
+¿Cuál es la montaña más alta de África?
+Kilimanjaro, Monte Everest,Mont Blanc, Aconcagua
+MEDIUM
+
+---    
+¿Cuál es el río más largo de Asia?
+Río Yangtze,Río Mekong,Río Amur,Río Obi
+HARD
+
+---    
+¿En qué año se firmó el Tratado de Tordesillas?
+1494, 1512, 1532, 1492
+HARD
+
+---
+¿Cuál es la capital de Nepal
+Kathmandu, Colombo,Islamabad, Thimphu      
+MEDIUM
+
+¿En qué año se fundó la ciudad de San Francisco?
+1776, 1849, 1856, 1901
+HARD
+    
+¿Cuál es la capital de Senegal?
+Dakar, Accra, Lagos, Abuya
+MEDIUM
+
+¿Cuál es la capital de Laos?
+Vientián,Phnom Penh, Bangkok, Naypyidaw
+MEDIUM
+
+¿Cuál es la capital de Ucrania?
+Kiev,Moscú,Minsk,Chisinau
+MEDIUM_EASY
+
+¿Quién compuso "El Barbero de Sevilla"?
+Gioachino Rossini,Giuseppe Verdi, Wolfgang Amadeus Mozart, Richard Wagner
+MEDIUM
+
+¿Quién escribió "La naranja mecánica"?
+Anthony Burgess,George Orwell,Aldous Huxley,Ray Bradbury
+HARD
+    
+¿En qué año se fundó la ciudad de Los Ángeles?,
+1781, 1850, 1900, 1925
+HARD
+  
+¿Cuál es la capital de Letonia?
+Riga, Vilna, Tallin,Helsinki
+MEDIUM_EASY
+    
+¿Quién pintó "El Grito"?
+Edvard Munch, Gustav Klimt, Paul Cézanne,Henri Matisse
+HARD
+    
+¿En qué país se encuentra el río Zambeze?,
+Sudáfrica, Zimbabue, Mozambique, Kenia
+HARD
+
+¿Cuál es la capital de Qatar?
+Doha,Abu Dabi,Manama,Riad
+MEDIUM
+
+¿Quién pintó "Las meninas"?
+Diego Velázquez, Francisco de Goya,El Greco,Pablo Picasso
+MEDIUM
+
+¿Quién escribió "El señor de las moscas"?
+J.D. Salinger, William Golding, Jack Kerouac, Kurt Vonnegut
+HARD
+
+¿Cuál es la capital de Islandia?
+Reikiavik,Helsinki,Oslo, Estocolmo
+MEDIUM
+
+¿Quién compuso la "Quinta Sinfonía"?
+Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Franz Schubert
+MEDIUM_EASY
+
+¿Cuál es la capital de Montenegro?,
+Podgorica,Sarajevo, Belgrado, Pristina
+HARD
+
+Quién escribió "Moby Dick"?,
+Herman Melville, Nathaniel Hawthorne, Edgar Allan Poe, Mark Twain
+HARD
+
+¿Cuál es el desierto más grande del mundo?'
+Desierto del Sahara,Desierto de Gobi, Desierto de Atacama, Desierto de Arabia
+MEDIUM
+
+¿Cuál es la capital de Turkmenistán?,
+Ashgabat, Bakú,Tashken, Teherán
+HARD
+
+¿Quién escribió "El viejo y el mar"?
+Ernest Hemingway,F. Scott Fitzgerald, John Steinbeck', William Faulkner
+MEDIUM
+
+Qué día se celebra el Día de San Valentín?,
+14 de febrero,14 de abril,14 de mayo,14 de julio
+EASY
+
+¿Quién escribió la novela "Mujercitas"?,
+Louisa May Alcott,Jane Austen,Charlotte Brontë, Emily Dickinson
+HARD
+
+¿Cuál es la capital de Malasia?
+Kuala Lumpur,Bangkok.Manila,Yakarta
+MEDIUM
+
+¿Quién compuso la ópera "La Traviata"?
+Giuseppe Verdi, Wolfgang Amadeus Mozart,Gioachino Rossini,Richard Wagner
+MEDIUM_EASY
+
+¿Cuál es el grupo sanguíneo universalmente aceptado para transfusiones?
+O-, A-, B+, AB+'
+MEDIUM
+  
+¿Quién escribió la novela "Orgullo y prejuicio"?
+Jane Austen, Charlotte Brontë, Virginia Woolf, Emily Brontë
+HARD
+
+¿En qué año se fundó Google?
+1998, 2001, 2004, 1995
+MEDIUM_EASY
+
+¿Quién ganó el premio Nobel de Física en 2018?
+Donna Strickland, Arthur Ashkin,Gerard Mourou,Kip Thorne
+HARD
+  
+Quién pintó "La creación de Adán" en la Capilla Sixtina?
+Miguel Ángel, Leonardo da Vinci,Sandro Botticelli,Rafael Sanzio
+MEDIUM_EASY
+
+¿Quién fue el primer emperador de China?
+Qin Shi Huang,Sun Yat-sen,Mao Zedong',Chiang Kai-shek
+HARD
+
+¿En qué año se estrenó la primera película de "Star Wars"?
+1977,1975,1972,1980
+MEDIUM
+
+¿En qué año se descubrió la penicilina?
+1928, 1932, 1940, 1950
+MEDIUM
+
+¿Quién es el autor de la novela "El nombre de la rosa"?
+Umberto Eco,Mario Vargas Llosa,Gabriel García Márquez,Jorge Luis Borges
+MEDIUM_EASY
+
+Qué famoso director de cine dirigió "Psicosis"?
+Alfred Hitchcock, Stanley Kubrick, Martin Scorsese, Francis Ford Coppola
+EASY
+    
+En qué país se encuentra el Monte Everest?
+Nepal,China, India, Bután
+MEDIUM_EASY
+
+Qué científico descubrió la ley de la gravitación universal?
+Isaac Newton, Albert Einstein,Galileo Galilei,Johannes Kepler
+MEDIUM_EASY
+
+¿Cuál es el cuadro más famoso de Vincent Van Gogh?
+La noche estrellada,Los girasoles,La siesta, La persistencia de la memoria'
+MEDIUM_EASY
+
+¿En qué ciudad se encuentra la famosa Torre Inclinada?
+Pisa,París, Londres,Berlín
+EASY
+
+¿Qué tipo de animal es el "okapi"?',
+Una jirafa, Un felino,Un equino,Un bóvido
+
+---
+¿Cuál es el nombre del proceso mediante el cual se produce la lluvia ácida?
+Combustión,Oxidación,Polución,Acidificación
+HARD
+
+---
+¿Quién fue el primer hombre en pisar la Luna?
+Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Alan Shepard
+MEDIUM_EASY
+
+---
+¿En qué año se llevó a cabo la Guerra de Vietnam?
+1962-1973,1945-1954,1954-1962,1973-1983
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del proceso mediante el cual se produce la corriente eléctrica a partir de una reacción química?
+Electrólisis,Electrificación,Electromagnetismo,Electrón
+MEDIUM
+
+---
+¿Cuál es el nombre de la molécula responsable de la transmisión de la información genética?
+ADN,ARN,Carbohidrato,Proteína
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la luz?
+Fotosíntesis,Quimiosíntesis,Respiración celular,Fermentación
+MEDIUM_EASY
+
+---
+¿En qué año se hundió el Titanic?
+1912,1910,1914,1916
+MEDIUM
+
+---
+¿Quién escribió la obra "El Quijote"?
+Miguel de Cervantes, William Shakespeare, Gustave Flaubert, Jane Austen
+MEDIUM_EASY
+
+---
+¿Cuál es el océano más pequeño del mundo?
+Océano Ártico,Océano Índico, Océano Atlántico, Océano Pacífico
+MEDIUM
+
+---
+¿Cuál es el nombre del proceso mediante el cual se libera energía a partir de la luz?
+Fotosíntesis,Quimiosíntesis,Respiración celular,Fermentación
+MEDIUM
+
+---
+¿Cuál es la capital de Argentina?
+Buenos Aires, Santiago de Chile, Montevideo, Caracas
+EASY
+
+---
+¿Cuál es el instrumento que se utiliza para medir la presión arterial?
+Esfigmomanómetro, Estetoscopio, Termómetro, Fonendoscopio
+MEDIUM
+
+---
+¿En qué año se cayó el muro de Berlín?
+1989,1991,1993,1987
+MEDIUM
+
+---
+¿En qué año se produjo la Revolución Francesa?
+1789, 1798, 1815, 1832
+MEDIUM
+
+---
+¿En qué año se produjo el desastre de Chernóbil?
+1986, 1991, 1996, 1989
+MEDIUM
+
+---
+¿En qué año se inventó el teléfono?
+1876, 1854, 1892, 1901
+MEDIUM
+
+---
+¿Quién escribió "El origen de las especies"?
+Charles Darwin, Albert Einstein, Isaac Newton,Galileo Galilei
+MEDIUM
+
+---
+¿Cuál es el metal más caro del mundo?
+Rodio, Platino, Oro, Paladio
+MEDIUM
+
+---
+¿En qué año se produjo la Primera Guerra Mundial?
+1914, 1918, 1922, 1912
+MEDIUM_EASY
+
+---
+¿Cuál es la molécula responsable del efecto invernadero en la atmósfera terrestre?
+CO2 (Dióxido de carbono), O2 (Oxígeno), N2 (Nitrógeno), H2O (Agua)
+MEDIUM
+
+---
+¿Quién ganó el Premio Nobel de Física en 2020?
+Todas las opciones, Roger Penrose, Reinhard Genzel, Andrea Ghez
+HARD
+
+---
+¿Cuál es la corriente eléctrica que fluye en una batería de 9V?
+0.1 amperios, 9 amperios, 1 amperio, 0.01 amperios
+MEDIUM
+
+---
+¿Cuál es el período de la función seno?
+2π,π,π/2,1
+MEDIUM
+
+---
+¿Cuál es la velocidad de escape de la Tierra?
+11,2 km/s, 9,8 km/s, 7,9 km/s, 5,7 km/s
+HARD
+
+----
+¿En qué año se descubrió el ADN?
+1953, 1869, 1902, 1987
+HARD
+
+---
+¿En qué año se lanzó el primer iPhone?
+2007, 2006, 2004, 2008
+MEDIUM
+
+---
+¿Cuál es la capital de Chile?,
+Santiago, Lima, Bogotá, Buenos Aires
+MEDIUM
+
+---
+¿En qué país se encuentra la ciudad de Praga?
+República Checa, Polonia, Alemania, Hungría
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la ciudad de Dubái?
+Emiratos Árabes Unidos, Kuwait, Qatar, Arabia Saudita
+MEDIUM
+
+---
+¿Cuál es el nombre del villano en la película "El Rey León"?
+Scar, Jafar, Ursula, Cruella
+MEDIUM
+
+---
+¿Qué grupo musical británico se hizo famoso en los años 60 con canciones como "Hey Jude" y "Let It Be"?',
+The Beatles, The Rolling Stones, Led Zeppelin, Pink Floyd
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Nueva Zelanda?
+Wellington,Auckland,Christchurch,Queenstown
+MEDIUM
+
+---
+¿Cuál es el nombre de la mayor cadena montañosa del mundo?
+El Himalaya, Los Andes, Los Alpes, Las Rocosas
+MEDIUM
+
+---
+¿Cuál es el río más largo de África?,
+Nilo, Congo, Zambeze, Níger
+MEDIUM_EASY
+
+---
+¿Cuál es el metal más abundante en la corteza terrestre?
+Aluminio, Hierro, Plomo, Cobre
+MEDIUM_EASY
+
+---
+¿Cuál es la ciudad más poblada del mundo?
+Tokio, Delhi, Shanghái, Ciudad de México
+MEDIUM
+
+---
+¿Quién escribió el libro "Don Quijote de la Mancha"?
+Miguel de Cervantes, Gabriel García Márquez, William Shakespeare, Dante Alighieri
+EASY
+
+---
+¿Cuál es el símbolo químico del oro?
+Au, Ag, Fe, Or
+MEDIUM_EASY
+
+---
+¿Cuál es la moneda oficial de Japón?
+Yen, Dólar, Euro, Libra
+MEDIUM_EASY
+
+---
+¿Cuál es el autor de la obra "Romeo y Julieta"?
+'William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Oscar Wilde'
+MEDIUM_EASY
+
+---
+¿En qué país se encuentra la isla de Pascua?
+Chile, Perú, Colombia, Ecuador
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del pigmento que da a las plantas su color verde?
+Clorofila, Melanina, Hemoglobina, Caroteno
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre del presidente de Rusia en la actualidad (2023)?
+Vladimir Putin, Dmitry Medvédev, Vladimir Zhirinovsky, Alexander Lukashenko
+EASY
+
+---
+¿Cuál es el nombre de la agencia espacial de Rusia?
+Roscosmos, NASA, ESA, JAXA
+HARD
+
+---
+¿Cuál es el gas más abundante en la atmósfera terrestre?
+Nitrógeno, Oxígeno, Dióxido de carbono, Hidrógeno
+MEDIUM
+
+----
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Samuel Beckett, George Bernard Shaw
+MEDIUM
+
+---
+¿Quién escribió "El Principito"?'
+Antoine de Saint-Exupéry, Albert Camus, Gustave Flaubert, Victor Hugo
+HARD
+
+---
+¿Cuál es el nombre de la actriz que interpreta a Hermione Granger en las películas de "Harry Potter"?
+Emma Watson, Emma Stone, Emma Roberts, Emma Thompson
+MEDIUM
+
+---
+¿En qué país se encuentra el río Amazonas?
+Brasil, Argentina, Perú, Colombia
+EASY
+
+----
+¿En qué año fue fundada la compañía Apple?
+1976, 1971, 1981, 1986
+MEDIUM
+
+----
+¿Quién fue el primer presidente de México?
+Agustín de Iturbide, Benito Juárez, Porfirio Díaz, Miguel Hidalgo
+HARD
+
+---
+¿Cuál es el nombre del villano principal de la serie de videojuegos "The Legend of Zelda"?
+Ganondorf, Bowser, Dr. Eggman, Sephiroth
+HARD
+
+---
+¿Cuál es el significado de la palabra "hipopótamo"?
+Cerdo de río, Caballo de río, Elefante de río, León de río
+HARD
+
+---
+¿Cuál es el nombre del protagonista en la novela "Don Quijote de la Mancha"?
+Alonso Quixano, Sancho Panza, Dulcinea del Toboso, Rocinante
+EASY
+
+---
+¿Qué nombre recibe el proceso por el cual una célula se divide en dos células hijas?
+Mitosis, Meiosis, Fotosíntesis, Respiración celular
+MEDIUM
+
+---
+¿Cuál es el nombre de la capa más externa de la Tierra?
+Corteza, Manto, Núcleo, Estratosfera
+MEDIUM
+
+---
+¿En qué país se encuentra la ciudad de Marrakech?
+Marruecos, Argelia, Túnez, Turquía
+MEDIUM
+
+---
+¿Qué continente tiene la mayor cantidad de países?
+América, Asia, Europa, África
+MEDIUM
+
+---
+¿En qué año se fundó la ciudad de Nueva York?
+1664, 1607, 1620, 1701
+HARD
+
+---
+¿Cuál es el nombre de la forma de gobierno en la que una sola persona tiene el poder absoluto?
+Dictadura, Democracia, Monarquía, República
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la famosa escultura de la diosa griega de la victoria?
+Niké de Samotracia, Venus de Milo, La Piedad, El David
+HARD
+
+---
+¿Cuál es el nombre del personaje principal de la película "La naranja mecánica"?
+Alex DeLarge, Travis Bickle, Donnie Darko, Patrick Bateman
+HARD
+
+---
+¿Cuál es el nombre de la actriz que interpreta a Katniss Everdeen en la película "Los juegos del hambre"?
+Jennifer Lawrence,Jennifer Aniston, Emma Watson, Emma Stone
+MEDIUM
+
+---
+¿Qué equipo ganó la Copa del Mundo de la FIFA 2018?'
+Francia, Alemania, Argentina, Brasil
+MEDIUM_EASY
+
+---
+¿Cuál es el número atómico del hierro?
+26, 12, 36, 55
+HARD
+
+---
+¿Cuál es la capital de Marruecos?
+Rabat, Tánger, Casablanca, Fez
+MEDIUM_EASY
+
+---
+¿En qué país nació el fundador de Apple, Steve Jobs?
+Estados Unidos, Japón, China, India
+EASY
+
+---
+¿Cuál es el único metal líquido a temperatura ambiente?
+Mercurio, Plomo, Hierro, Oro
+MEDIUM_EASY
+
+---
+¿Qué pintor español creó "Las Meninas"?
+'Diego Velázquez', 'Pablo Picasso', 'Salvador Dalí', 'Joan Miró'
+MEDIUM
+
+---
+¿Cuál es la unidad básica de medida de la corriente eléctrica?
+Amperio, Voltio, Ohmio, Vatio
+MEDIUM_EASY
+
+---
+¿Qué presidente de los Estados Unidos aparece en el billete de $1?
+George Washington, Abraham Lincoln, Thomas Jefferson, Benjamin Franklin
+MEDIUM_EASY
+
+---
+¿Cuál es la obra más famosa de William Shakespeare?
+'Hamlet', 'Macbeth', 'Romeo y Julieta', 'Otelo'
+MEDIUM_EASY
+
+---
+¿Cuál es el autor de la novela "El gran Gatsby"?
+F. Scott Fitzgerald, Ernest Hemingway, William Faulkner, Truman Capote
+MEDIUM
+
+---
+¿Cuál es el único país que está en dos continentes?
+Turquía, España, Rusia, Egipto
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la galaxia en la que se encuentra nuestro sistema solar?
+Vía Láctea, Andrómeda, Cigarro, Sombrero
+MEDIUM_EASY
+
+---
+¿Qué imperio fue derrotado en la Primera Guerra Mundial?
+Imperio Otomano, Imperio Romano, Imperio Británico, Imperio Azteca
+MEDIUM_EASY
+
+---
+¿En qué año comenzó la Segunda Guerra Mundial?
+1939, 1941, 1945, 1948
+EASY
+
+---
+¿Cuál es la ciudad más poblada de Brasil?
+Sao Paulo, Río de Janeiro, Brasilia, Salvador
+MEDIUM
+
+---
+¿Qué enfermedad es causada por la bacteria Mycobacterium tuberculosis?'
+Tuberculosis, SIDA, Cáncer, Poliomielitis
+MEDIUM_EASY
+
+---
+¿Cuál es el rango del ejército estadounidense equivalente al de un capitán en el ejército español?
+Teniente primero, Sargento primero, Teniente coronel,General
+MEDIUM
+
+---
+¿Cuál es la capital de Irlanda?'
+Dublín, Edimburgo, Belfast, Cork
+MEDIUM_EASY
+
+---
+¿Cuál es el metal más precioso?
+Oro, Plata, Platino, Cobre
+MEDIUM
+
+---
+¿Cuál es el órgano más grande del cuerpo humano?
+Piel, Corazón, Pulmón, Hígado
+MEDIUM_EASY
+
+---
+¿Cuál es el lago más profundo del mundo?
+Lago Baikal, Lago Superior, Lago Tanganica, Lago Ness
+MEDIUM
+
+---
+¿Cuál es la capital de Portugal?
+Lisboa, Madrid, Barcelona, Valencia
+EASY
+
+---
+¿Qué país es conocido como "La tierra de las mil colinas"?
+Ruanda, Kenya, Tanzania, Uganda
+HARD
+
+---
+¿Cuál es el principal gas que emite el efecto invernadero?
+Dióxido de carbono, Oxígeno, Nitrógeno, Metano
+MEDIUM_EASY
+
+---
+¿Qué banda de rock tiene como vocalista a Bono?
+U2, The Rolling Stones, Queen, AC/DC
+EASY
+
+---
+¿Cuál es el estado más grande de EE. UU. por superficie?
+Alaska, Texas, California, Montana
+MEDIUM_EASY
+
+---
+¿Qué tipo de animal es la mascota de Tony Stark en los cómics de Marvel?
+Mapache, Perro, Gato, Avestruz
+MEDIUM
+
+---
+¿Cuál es el nombre de la hormona del sueño?
+Melatonina, Serotonina, Dopamina, Adrenalina
+MEDIUM
+
+---
+¿Cuál es el nombre del actor que interpretó a Neo en la película "The Matrix"?
+Keanu Reeves, Tom Cruise, Brad Pitt, Will Smith
+EASY
+
+---
+¿Cuál es el principal ingrediente del sushi?
+Arroz, Fideos, Pescado, Verduras
+MEDIUM_EASY
+
+---
+¿Cuál es el edificio más alto del mundo?
+Burj Khalifa, Empire State Building, Taipei 101, Torre Eiffel
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la mascota de la marca Disney?
+Pluto, Mickey Mouse, Donald Duck, Goofy
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Brasil?
+Brasilia, São Paulo, Río de Janeiro, Buenos Aires
+MEDIUM_EASY
+
+---
+¿Qué país fue el anfitrión de los Juegos Olímpicos de verano en 2016?
+Brasil, China, Reino Unido, Australia
+MEDIUM_EASY
+
+---
+¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?
+Fotosíntesis, Respiración, Evaporación, Transpiración
+MEDIUM_EASY
+
+---
+¿Quién compuso la Novena Sinfonía?,
+Ludwig van Beethoven,Wolfgang Amadeus Mozart, Johann Sebastian Bach, Franz Schubert
+MEDIUM_EASY
+
+---
+¿Cuál es el país más grande de África?
+Argelia, Sudáfrica, Egipto, Nigeria
+MEDIUM
+
+---
+¿Cuál es el país más pequeño del mundo en términos de superficie?
+Vaticano, Mónaco, San Marino, Malta
+MEDIUM_EASY
+
+---
+¿Cuál es el océano más frío del mundo?,
+Océano Ártico, Océano Atlántico, Océano Índico, Océano Pacífico
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Francia?
+París, Roma, Madrid, Londres
+EASY
+
+---
+¿Cuál es el continente más poblado?
+Asia, África, Europa, América
+MEDIUM_EASY
+
+---
+¿Cuál es el río más largo de Europa?
+Río Volga, Río Danubio, Río Rin, Río Támesis
+MEDIUM
+
+---
+¿Cuál es el número atómico del oxígeno?
+8, 6, 12, 16
+MEDIUM
+
+---
+¿Quién escribió la novela "La montaña mágica"?
+Thomas Mann, Hermann Hesse, Franz Kafka, Robert Musil
+HARD
+
+---
+¿Quién compuso el "Concierto para piano No.2"?
+Sergei Rachmaninoff,Frédéric Chopin, Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---    
+¿Qué elemento químico tiene el símbolo Pb?'
+Plomo, Platino, Potasio, Paladio
+MEDIUM_EASY
+
+---
+¿Cuál es el único estado de EE. UU. que limita con un solo estado?
+Rhode Island, Maine, Vermont, Nuevo Hampshire
+HARD
+
+---
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Virginia Woolf, T.S. Eliot
+MEDIUM
+
+---
+¿Cuál es la montaña más alta de África?
+Kilimanjaro, Monte Everest,Mont Blanc, Aconcagua
+MEDIUM
+
+---    
+¿Cuál es el río más largo de Asia?
+Río Yangtze,Río Mekong,Río Amur,Río Obi
+HARD
+
+---    
+¿En qué año se firmó el Tratado de Tordesillas?
+1494, 1512, 1532, 1492
+HARD
+
+---
+¿Cuál es la capital de Nepal
+Kathmandu, Colombo,Islamabad, Thimphu      
+MEDIUM
+
+¿En qué año se fundó la ciudad de San Francisco?
+1776, 1849, 1856, 1901
+HARD
+    
+¿Cuál es la capital de Senegal?
+Dakar, Accra, Lagos, Abuya
+MEDIUM
+
+¿Cuál es la capital de Laos?
+Vientián,Phnom Penh, Bangkok, Naypyidaw
+MEDIUM
+
+¿Cuál es la capital de Ucrania?
+Kiev,Moscú,Minsk,Chisinau
+MEDIUM_EASY
+
+¿Quién compuso "El Barbero de Sevilla"?
+Gioachino Rossini,Giuseppe Verdi, Wolfgang Amadeus Mozart, Richard Wagner
+MEDIUM
+
+¿Quién escribió "La naranja mecánica"?
+Anthony Burgess,George Orwell,Aldous Huxley,Ray Bradbury
+HARD
+    
+¿En qué año se fundó la ciudad de Los Ángeles?,
+1781, 1850, 1900, 1925
+HARD
+  
+¿Cuál es la capital de Letonia?
+Riga, Vilna, Tallin,Helsinki
+MEDIUM_EASY
+    
+¿Quién pintó "El Grito"?
+Edvard Munch, Gustav Klimt, Paul Cézanne,Henri Matisse
+HARD
+    
+¿En qué país se encuentra el río Zambeze?,
+Sudáfrica, Zimbabue, Mozambique, Kenia
+HARD
+
+¿Cuál es la capital de Qatar?
+Doha,Abu Dabi,Manama,Riad
+MEDIUM
+
+¿Quién pintó "Las meninas"?
+Diego Velázquez, Francisco de Goya,El Greco,Pablo Picasso
+MEDIUM
+
+¿Quién escribió "El señor de las moscas"?
+J.D. Salinger, William Golding, Jack Kerouac, Kurt Vonnegut
+HARD
+
+¿Cuál es la capital de Islandia?
+Reikiavik,Helsinki,Oslo, Estocolmo
+MEDIUM
+
+¿Quién compuso la "Quinta Sinfonía"?
+Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Franz Schubert
+MEDIUM_EASY
+
+¿Cuál es la capital de Montenegro?,
+Podgorica,Sarajevo, Belgrado, Pristina
+HARD
+
+Quién escribió "Moby Dick"?,
+Herman Melville, Nathaniel Hawthorne, Edgar Allan Poe, Mark Twain
+HARD
+
+¿Cuál es el desierto más grande del mundo?'
+Desierto del Sahara,Desierto de Gobi, Desierto de Atacama, Desierto de Arabia
+MEDIUM
+
+¿Cuál es la capital de Turkmenistán?,
+Ashgabat, Bakú,Tashken, Teherán
+HARD
+
+¿Quién escribió "El viejo y el mar"?
+Ernest Hemingway,F. Scott Fitzgerald, John Steinbeck', William Faulkner
+MEDIUM
+
+Qué día se celebra el Día de San Valentín?,
+14 de febrero,14 de abril,14 de mayo,14 de julio
+EASY
+
+¿Quién escribió la novela "Mujercitas"?,
+Louisa May Alcott,Jane Austen,Charlotte Brontë, Emily Dickinson
+HARD
+
+¿Cuál es la capital de Malasia?
+Kuala Lumpur,Bangkok.Manila,Yakarta
+MEDIUM
+
+¿Quién compuso la ópera "La Traviata"?
+Giuseppe Verdi, Wolfgang Amadeus Mozart,Gioachino Rossini,Richard Wagner
+MEDIUM_EASY
+
+¿Cuál es el grupo sanguíneo universalmente aceptado para transfusiones?
+O-, A-, B+, AB+'
+MEDIUM
+  
+¿Quién escribió la novela "Orgullo y prejuicio"?
+Jane Austen, Charlotte Brontë, Virginia Woolf, Emily Brontë
+HARD
+
+¿En qué año se fundó Google?
+1998, 2001, 2004, 1995
+MEDIUM_EASY
+
+¿Quién ganó el premio Nobel de Física en 2018?
+Donna Strickland, Arthur Ashkin,Gerard Mourou,Kip Thorne
+HARD
+  
+Quién pintó "La creación de Adán" en la Capilla Sixtina?
+Miguel Ángel, Leonardo da Vinci,Sandro Botticelli,Rafael Sanzio
+MEDIUM_EASY
+
+¿Quién fue el primer emperador de China?
+Qin Shi Huang,Sun Yat-sen,Mao Zedong',Chiang Kai-shek
+HARD
+
+¿En qué año se estrenó la primera película de "Star Wars"?
+1977,1975,1972,1980
+MEDIUM
+
+¿En qué año se descubrió la penicilina?
+1928, 1932, 1940, 1950
+MEDIUM
+
+¿Quién es el autor de la novela "El nombre de la rosa"?
+Umberto Eco,Mario Vargas Llosa,Gabriel García Márquez,Jorge Luis Borges
+MEDIUM_EASY
+
+Qué famoso director de cine dirigió "Psicosis"?
+Alfred Hitchcock, Stanley Kubrick, Martin Scorsese, Francis Ford Coppola
+EASY
+    
+En qué país se encuentra el Monte Everest?
+Nepal,China, India, Bután
+MEDIUM_EASY
+
+Qué científico descubrió la ley de la gravitación universal?
+Isaac Newton, Albert Einstein,Galileo Galilei,Johannes Kepler
+MEDIUM_EASY
+
+¿Cuál es el cuadro más famoso de Vincent Van Gogh?
+La noche estrellada,Los girasoles,La siesta, La persistencia de la memoria'
+MEDIUM_EASY
+
+¿En qué ciudad se encuentra la famosa Torre Inclinada?
+Pisa,París, Londres,Berlín
+EASY
+
+---
+¿Quién compuso el "Concierto para piano No.2"?
+Sergei Rachmaninoff,Frédéric Chopin, Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---    
+¿Qué elemento químico tiene el símbolo Pb?'
+Plomo, Platino, Potasio, Paladio
+MEDIUM_EASY
+
+---
+¿Cuál es el único estado de EE. UU. que limita con un solo estado?
+Rhode Island, Maine, Vermont, Nuevo Hampshire
+HARD
+
+---
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Virginia Woolf, T.S. Eliot
+MEDIUM
+
+---
+¿Cuál es la montaña más alta de África?
+Kilimanjaro, Monte Everest,Mont Blanc, Aconcagua
+MEDIUM
+
+---    
+¿Cuál es el río más largo de Asia?
+Río Yangtze,Río Mekong,Río Amur,Río Obi
+HARD
+
+---    
+¿En qué año se firmó el Tratado de Tordesillas?
+1494, 1512, 1532, 1492
+HARD
+
+---
+¿Cuál es la capital de Nepal
+Kathmandu, Colombo,Islamabad, Thimphu      
+MEDIUM
+
+¿En qué año se fundó la ciudad de San Francisco?
+1776, 1849, 1856, 1901
+HARD
+    
+¿Cuál es la capital de Senegal?
+Dakar, Accra, Lagos, Abuya
+MEDIUM
+
+¿Cuál es la capital de Laos?
+Vientián,Phnom Penh, Bangkok, Naypyidaw
+MEDIUM
+
+¿Cuál es la capital de Ucrania?
+Kiev,Moscú,Minsk,Chisinau
+MEDIUM_EASY
+
+¿Quién compuso "El Barbero de Sevilla"?
+Gioachino Rossini,Giuseppe Verdi, Wolfgang Amadeus Mozart, Richard Wagner
+MEDIUM
+
+¿Quién escribió "La naranja mecánica"?
+Anthony Burgess,George Orwell,Aldous Huxley,Ray Bradbury
+HARD
+    
+¿En qué año se fundó la ciudad de Los Ángeles?,
+1781, 1850, 1900, 1925
+HARD
+  
+¿Cuál es la capital de Letonia?
+Riga, Vilna, Tallin,Helsinki
+MEDIUM_EASY
+    
+¿Quién pintó "El Grito"?
+Edvard Munch, Gustav Klimt, Paul Cézanne,Henri Matisse
+HARD
+    
+¿En qué país se encuentra el río Zambeze?,
+Sudáfrica, Zimbabue, Mozambique, Kenia
+HARD
+
+¿Cuál es la capital de Qatar?
+Doha,Abu Dabi,Manama,Riad
+MEDIUM
+
+¿Quién pintó "Las meninas"?
+Diego Velázquez, Francisco de Goya,El Greco,Pablo Picasso
+MEDIUM
+
+¿Quién escribió "El señor de las moscas"?
+J.D. Salinger, William Golding, Jack Kerouac, Kurt Vonnegut
+HARD
+
+¿Cuál es la capital de Islandia?
+Reikiavik,Helsinki,Oslo, Estocolmo
+MEDIUM
+
+¿Quién compuso la "Quinta Sinfonía"?
+Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Franz Schubert
+MEDIUM_EASY
+
+¿Cuál es la capital de Montenegro?,
+Podgorica,Sarajevo, Belgrado, Pristina
+HARD
+
+Quién escribió "Moby Dick"?,
+Herman Melville, Nathaniel Hawthorne, Edgar Allan Poe, Mark Twain
+HARD
+
+¿Cuál es el desierto más grande del mundo?'
+Desierto del Sahara,Desierto de Gobi, Desierto de Atacama, Desierto de Arabia
+MEDIUM
+
+¿Cuál es la capital de Turkmenistán?,
+Ashgabat, Bakú,Tashken, Teherán
+HARD
+
+¿Quién escribió "El viejo y el mar"?
+Ernest Hemingway,F. Scott Fitzgerald, John Steinbeck', William Faulkner
+MEDIUM
+
+Qué día se celebra el Día de San Valentín?,
+14 de febrero,14 de abril,14 de mayo,14 de julio
+EASY
+
+¿Quién escribió la novela "Mujercitas"?,
+Louisa May Alcott,Jane Austen,Charlotte Brontë, Emily Dickinson
+HARD
+
+¿Cuál es la capital de Malasia?
+Kuala Lumpur,Bangkok.Manila,Yakarta
+MEDIUM
+
+¿Quién compuso la ópera "La Traviata"?
+Giuseppe Verdi, Wolfgang Amadeus Mozart,Gioachino Rossini,Richard Wagner
+MEDIUM_EASY
+
+¿Cuál es el grupo sanguíneo universalmente aceptado para transfusiones?
+O-, A-, B+, AB+'
+MEDIUM
+  
+¿Quién escribió la novela "Orgullo y prejuicio"?
+Jane Austen, Charlotte Brontë, Virginia Woolf, Emily Brontë
+HARD
+
+¿En qué año se fundó Google?
+1998, 2001, 2004, 1995
+MEDIUM_EASY
+
+¿Quién ganó el premio Nobel de Física en 2018?
+Donna Strickland, Arthur Ashkin,Gerard Mourou,Kip Thorne
+HARD
+  
+Quién pintó "La creación de Adán" en la Capilla Sixtina?
+Miguel Ángel, Leonardo da Vinci,Sandro Botticelli,Rafael Sanzio
+MEDIUM_EASY
+
+¿Quién fue el primer emperador de China?
+Qin Shi Huang,Sun Yat-sen,Mao Zedong',Chiang Kai-shek
+HARD
+
+¿En qué año se estrenó la primera película de "Star Wars"?
+1977,1975,1972,1980
+MEDIUM
+
+¿En qué año se descubrió la penicilina?
+1928, 1932, 1940, 1950
+MEDIUM
+
+¿Quién es el autor de la novela "El nombre de la rosa"?
+Umberto Eco,Mario Vargas Llosa,Gabriel García Márquez,Jorge Luis Borges
+MEDIUM_EASY
+
+Qué famoso director de cine dirigió "Psicosis"?
+Alfred Hitchcock, Stanley Kubrick, Martin Scorsese, Francis Ford Coppola
+EASY
+    
+En qué país se encuentra el Monte Everest?
+Nepal,China, India, Bután
+MEDIUM_EASY
+
+Qué científico descubrió la ley de la gravitación universal?
+Isaac Newton, Albert Einstein,Galileo Galilei,Johannes Kepler
+MEDIUM_EASY
+
+¿Cuál es el cuadro más famoso de Vincent Van Gogh?
+La noche estrellada,Los girasoles,La siesta, La persistencia de la memoria'
+MEDIUM_EASY
+
+¿En qué ciudad se encuentra la famosa Torre Inclinada?
+Pisa,París, Londres,Berlín
+EASY
+
+¿Qué tipo de animal es la mascota de Tony Stark en los cómics de Marvel?
+Mapache, Perro, Gato, Avestruz
+MEDIUM
+
+---
+¿Cuál es el nombre de la hormona del sueño?
+Melatonina, Serotonina, Dopamina, Adrenalina
+MEDIUM
+
+---
+¿Cuál es el nombre del actor que interpretó a Neo en la película "The Matrix"?
+Keanu Reeves, Tom Cruise, Brad Pitt, Will Smith
+EASY
+
+---
+¿Cuál es el principal ingrediente del sushi?
+Arroz, Fideos, Pescado, Verduras
+MEDIUM_EASY
+
+---
+¿Cuál es el edificio más alto del mundo?
+Burj Khalifa, Empire State Building, Taipei 101, Torre Eiffel
+MEDIUM_EASY
+
+---
+¿Cuál es el nombre de la mascota de la marca Disney?
+Pluto, Mickey Mouse, Donald Duck, Goofy
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Brasil?
+Brasilia, São Paulo, Río de Janeiro, Buenos Aires
+MEDIUM_EASY
+
+---
+¿Qué país fue el anfitrión de los Juegos Olímpicos de verano en 2016?
+Brasil, China, Reino Unido, Australia
+MEDIUM_EASY
+
+---
+¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?
+Fotosíntesis, Respiración, Evaporación, Transpiración
+MEDIUM_EASY
+
+---
+¿Quién compuso la Novena Sinfonía?,
+Ludwig van Beethoven,Wolfgang Amadeus Mozart, Johann Sebastian Bach, Franz Schubert
+MEDIUM_EASY
+
+---
+¿Cuál es el país más grande de África?
+Argelia, Sudáfrica, Egipto, Nigeria
+MEDIUM
+
+---
+¿Cuál es el país más pequeño del mundo en términos de superficie?
+Vaticano, Mónaco, San Marino, Malta
+MEDIUM_EASY
+
+---
+¿Cuál es el océano más frío del mundo?,
+Océano Ártico, Océano Atlántico, Océano Índico, Océano Pacífico
+MEDIUM_EASY
+
+---
+¿Cuál es la capital de Francia?
+París, Roma, Madrid, Londres
+EASY
+
+---
+¿Cuál es el continente más poblado?
+Asia, África, Europa, América
+MEDIUM_EASY
+
+---
+¿Cuál es el río más largo de Europa?
+Río Volga, Río Danubio, Río Rin, Río Támesis
+MEDIUM
+
+---
+¿Cuál es el número atómico del oxígeno?
+8, 6, 12, 16
+MEDIUM
+
+---
+¿Quién escribió la novela "La montaña mágica"?
+Thomas Mann, Hermann Hesse, Franz Kafka, Robert Musil
+HARD
+
+---
+¿Quién compuso el "Concierto para piano No.2"?
+Sergei Rachmaninoff,Frédéric Chopin, Ludwig van Beethoven, Wolfgang Amadeus Mozart
+MEDIUM
+
+---    
+¿Qué elemento químico tiene el símbolo Pb?'
+Plomo, Platino, Potasio, Paladio
+MEDIUM_EASY
+
+---
+¿Cuál es el único estado de EE. UU. que limita con un solo estado?
+Rhode Island, Maine, Vermont, Nuevo Hampshire
+HARD
+
+---
+¿Quién escribió "El retrato de Dorian Gray"?
+Oscar Wilde, James Joyce, Virginia Woolf, T.S. Eliot
+MEDIUM
+
+---
+¿Cuál es la montaña más alta de África?
+Kilimanjaro, Monte Everest,Mont Blanc, Aconcagua
+MEDIUM
+
+---    
+¿Cuál es el río más largo de Asia?
+Río Yangtze,Río Mekong,Río Amur,Río Obi
+HARD
+
+---    
+¿En qué año se firmó el Tratado de Tordesillas?
+1494, 1512, 1532, 1492
+HARD
+
+---
+¿Cuál es la capital de Nepal
+Kathmandu, Colombo,Islamabad, Thimphu      
+MEDIUM
+
+¿En qué año se fundó la ciudad de San Francisco?
+1776, 1849, 1856, 1901
+HARD
+    
+¿Cuál es la capital de Senegal?
+Dakar, Accra, Lagos, Abuya
+MEDIUM
+
+¿Cuál es la capital de Laos?
+Vientián,Phnom Penh, Bangkok, Naypyidaw
+MEDIUM
+
+¿Cuál es la capital de Ucrania?
+Kiev,Moscú,Minsk,Chisinau
+MEDIUM_EASY
+
+¿Quién compuso "El Barbero de Sevilla"?
+Gioachino Rossini,Giuseppe Verdi, Wolfgang Amadeus Mozart, Richard Wagner
+MEDIUM
+
+¿Quién escribió "La naranja mecánica"?
+Anthony Burgess,George Orwell,Aldous Huxley,Ray Bradbury
+HARD
+    
+¿En qué año se fundó la ciudad de Los Ángeles?,
+1781, 1850, 1900, 1925
+HARD
+  
+¿Cuál es la capital de Letonia?
+Riga, Vilna, Tallin,Helsinki
+MEDIUM_EASY
+    
+¿Quién pintó "El Grito"?
+Edvard Munch, Gustav Klimt, Paul Cézanne,Henri Matisse
+HARD
+    
+¿En qué país se encuentra el río Zambeze?,
+Sudáfrica, Zimbabue, Mozambique, Kenia
+HARD
+
+¿Cuál es la capital de Qatar?
+Doha,Abu Dabi,Manama,Riad
+MEDIUM
+
+¿Quién pintó "Las meninas"?
+Diego Velázquez, Francisco de Goya,El Greco,Pablo Picasso
+MEDIUM
+
+¿Quién escribió "El señor de las moscas"?
+J.D. Salinger, William Golding, Jack Kerouac, Kurt Vonnegut
+HARD
+
+¿Cuál es la capital de Islandia?
+Reikiavik,Helsinki,Oslo, Estocolmo
+MEDIUM
+
+¿Quién compuso la "Quinta Sinfonía"?
+Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Franz Schubert
+MEDIUM_EASY
+
+¿Cuál es la capital de Montenegro?,
+Podgorica,Sarajevo, Belgrado, Pristina
+HARD
+
+Quién escribió "Moby Dick"?,
+Herman Melville, Nathaniel Hawthorne, Edgar Allan Poe, Mark Twain
+HARD
+
+¿Cuál es el desierto más grande del mundo?'
+Desierto del Sahara,Desierto de Gobi, Desierto de Atacama, Desierto de Arabia
+MEDIUM
+
+¿Cuál es la capital de Turkmenistán?,
+Ashgabat, Bakú,Tashken, Teherán
+HARD
+
+¿Quién escribió "El viejo y el mar"?
+Ernest Hemingway,F. Scott Fitzgerald, John Steinbeck', William Faulkner
+MEDIUM
+
+Qué día se celebra el Día de San Valentín?,
+14 de febrero,14 de abril,14 de mayo,14 de julio
+EASY
+
+¿Quién escribió la novela "Mujercitas"?,
+Louisa May Alcott,Jane Austen,Charlotte Brontë, Emily Dickinson
+HARD
+
+¿Cuál es la capital de Malasia?
+Kuala Lumpur,Bangkok.Manila,Yakarta
+MEDIUM
+
+¿Quién compuso la ópera "La Traviata"?
+Giuseppe Verdi, Wolfgang Amadeus Mozart,Gioachino Rossini,Richard Wagner
+MEDIUM_EASY
+
+¿Cuál es el grupo sanguíneo universalmente aceptado para transfusiones?
+O-, A-, B+, AB+'
+MEDIUM
+  
+¿Quién escribió la novela "Orgullo y prejuicio"?
+Jane Austen, Charlotte Brontë, Virginia Woolf, Emily Brontë
+HARD
+
+¿En qué año se fundó Google?
+1998, 2001, 2004, 1995
+MEDIUM_EASY
+
+¿Quién ganó el premio Nobel de Física en 2018?
+Donna Strickland, Arthur Ashkin,Gerard Mourou,Kip Thorne
+HARD
+  
+Quién pintó "La creación de Adán" en la Capilla Sixtina?
+Miguel Ángel, Leonardo da Vinci,Sandro Botticelli,Rafael Sanzio
+MEDIUM_EASY
+
+¿Quién fue el primer emperador de China?
+Qin Shi Huang,Sun Yat-sen,Mao Zedong',Chiang Kai-shek
+HARD
+
+¿En qué año se estrenó la primera película de "Star Wars"?
+1977,1975,1972,1980
+MEDIUM
+
+¿En qué año se descubrió la penicilina?
+1928, 1932, 1940, 1950
+MEDIUM
+
+¿Quién es el autor de la novela "El nombre de la rosa"?
+Umberto Eco,Mario Vargas Llosa,Gabriel García Márquez,Jorge Luis Borges
+MEDIUM_EASY
+
+Qué famoso director de cine dirigió "Psicosis"?
+Alfred Hitchcock, Stanley Kubrick, Martin Scorsese, Francis Ford Coppola
+EASY
+    
+En qué país se encuentra el Monte Everest?
+Nepal,China, India, Bután
+MEDIUM_EASY
+
+Qué científico descubrió la ley de la gravitación universal?
+Isaac Newton, Albert Einstein,Galileo Galilei,Johannes Kepler
+MEDIUM_EASY
+
+¿Cuál es el cuadro más famoso de Vincent Van Gogh?
+La noche estrellada,Los girasoles,La siesta, La persistencia de la memoria'
+MEDIUM_EASY
+
+¿En qué ciudad se encuentra la famosa Torre Inclinada?
+Pisa,París, Londres,Berlín
+EASY
+
+
